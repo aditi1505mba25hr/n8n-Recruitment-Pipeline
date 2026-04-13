@@ -36,10 +36,10 @@ Google Sheets Trigger → IF Node
 ## 📸 Screenshots
 
 ### n8n Workflow
-![Workflow Screenshot](./n8n%20(2).png)
+![n8n pipleline.jpeg)
 
 ### Dashboard
-![Dashboard Screenshot](./Dahboard.png)
+![Dashboard Screenshot](./Power BI Dashboard.jpg)
 
 ---
 
