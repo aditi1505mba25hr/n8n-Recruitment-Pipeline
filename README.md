@@ -33,13 +33,7 @@ Google Sheets Trigger → IF Node
 
 ---
 
-## 📸 Screenshots
 
-### n8n Workflow
-![n8n pipleline.jpeg)
-
-### Dashboard
-![Dashboard Screenshot](./Power BI Dashboard.jpg)
 
 ---
 
@@ -86,7 +80,18 @@ Ensure your sheet has columns:
 
 ---
 
-## 💼 Use Case in HR
+## ## 📸 Screenshots
+
+### 🔹 n8n Workflow
+![n8n Workflow](n8n%20pipeline.jpeg)
+
+---
+
+### 🔹 Power BI Dashboard
+![Dashboard](Power%20BI%20Dashboard.jpg)
+
+
+💼 Use Case in HR
 
 This system helps HR teams to:
 - Automate candidate screening  
